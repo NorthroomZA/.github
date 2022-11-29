@@ -1,4 +1,4 @@
-![Northroom Technologies](banner.png)
+![Northroom Technologies](https://raw.githubusercontent.com/NorthroomZA/.github/main/profile/banner.png)
 
 ## Find Us elsewhere 
 

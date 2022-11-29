@@ -1,4 +1,4 @@
-## Northroom Technologies
+![Northroom Technologies](banner.png)
 
 ## Find Us elsewhere 
 

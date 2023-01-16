@@ -1,7 +1,7 @@
 ![Northroom Technologies](https://raw.githubusercontent.com/NorthroomZA/.github/main/profile/banner.png)
 
 
-![Clutch.io](clutch.io_10.png)  ![Clutch.io](clutch.io_20.png)
+![Clutch.io](https://raw.githubusercontent.com/NorthroomZA/.github/main/profile/clutch.io_10.png)  ![Clutch.io](https://raw.githubusercontent.com/NorthroomZA/.github/main/profile/clutch.io_20.png)
 
 
 

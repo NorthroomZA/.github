@@ -1,5 +1,10 @@
 ![Northroom Technologies](https://raw.githubusercontent.com/NorthroomZA/.github/main/profile/banner.png)
 
+
+![Clutch.io](clutch.io_10.png)  ![Clutch.io](clutch.io_20.png)
+
+
+
 ## Find Us elsewhere 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=northroomtech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/northroom-technologies/about/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCazbJuygFX8Q0zI3Q_hhbvQ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/northroomtech) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/northroomtech/) 

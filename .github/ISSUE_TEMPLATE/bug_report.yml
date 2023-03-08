@@ -1,6 +1,6 @@
 name: 🐞 Bug report
 description: Report an issue
-labels: [pending triage]
+labels: [bug]
 body:
   - type: markdown
     attributes:
@@ -39,9 +39,6 @@ body:
       options:
         - npm
         - yarn
-        - pnpm
-        - bun
-        - n/a
     validations:
       required: true
   - type: checkboxes
@@ -50,13 +47,11 @@ body:
       label: Validations
       description: Before submitting the issue, please make sure you do the following
       options:
-        - label: Follow our [Code of Conduct](https://github.com/antfu/.github/blob/main/CODE_OF_CONDUCT.md)
+        - label: Follow our [Code of Conduct](https://github.com/NorthroomZA/.github/blob/main/CODE_OF_CONDUCT.md)
           required: true
-        - label: Read the [Contributing Guide](https://github.com/antfu/contribute).
+        - label: Read the [Contributing Guide](https://github.com/NorthroomZA/.github/blob/main/CONTRIBUTING.md).
           required: true
         - label: Check that there isn't already an issue that reports the same bug to avoid creating a duplicate.
-          required: true
-        - label: Check that this is a concrete bug. For Q&A, please open a GitHub Discussion instead.
           required: true
         - label: The provided reproduction is a [minimal reproducible](https://stackoverflow.com/help/minimal-reproducible-example) of the bug.
           required: true
